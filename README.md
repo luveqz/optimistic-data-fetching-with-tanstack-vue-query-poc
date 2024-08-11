@@ -1,4 +1,4 @@
-# Optimistic Data Fetching with Tanstack Query
+# 🧪 Optimistic Data Fetching with Tanstack Query
 
 This is a POC to demonstrate how to use the [Tanstack Query](https://tanstack.com/query/latest) library to implement optimistic data fetching in a Vue application.
 
