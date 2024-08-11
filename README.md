@@ -1,33 +1,9 @@
-# optimistic-data-fetching-with-tanstack-vue-query-poc
+# Optimistic Data Fetching with Tanstack Query
 
-This template should help get you started developing with Vue 3 in Vite.
+This is a POC to demonstrate how to use the [Tanstack Query](https://tanstack.com/query/latest) library to implement optimistic data fetching in a Vue application.
 
-## Recommended IDE Setup
+Here is a good definition by the Remix Team:
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+> **Optimistic UI**: Optimistic UI enhances perceived speed and responsiveness by immediately updating the UI with an expected state before the server's response is received. This approach is used when the application can predict the outcome of an action based on context and user input, allowing for an immediate response to actions.
 
-## Type Support for `.vue` Imports in TS
-
-TypeScript cannot handle type information for `.vue` imports by default, so we replace the `tsc` CLI with `vue-tsc` for type checking. In editors, we need [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) to make the TypeScript language service aware of `.vue` types.
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Type-Check, Compile and Minify for Production
-
-```sh
-npm run build
-```
+―https://remix.run/docs/en/main/discussion/pending-ui
