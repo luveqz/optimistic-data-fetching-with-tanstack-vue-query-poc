@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1001,
+    "publishedYear": 1982,
+    "title": "The House of the Spirits",
+    "author": "Isabel Allende"
+  },
+  {
+    "id": 1002,
+    "publishedYear": 2007,
+    "title": "The Brief Wondrous Life of Oscar Wao",
+    "author": "Junot Díaz"
+  },
+  {
+    "id": 1003,
+    "publishedYear": 1988,
+    "title": "Like Water for Chocolate",
+    "author": "Laura Esquivel"
+  },
+  {
+    "id": 1004,
+    "publishedYear": 1995,
+    "title": "In the Time of the Butterflies",
+    "author": "Julia Alvarez"
+  },
+  {
+    "id": 1005,
+    "publishedYear": 2014,
+    "title": "The Veins of the Ocean",
+    "author": "Patricia Engel"
+  }
+]
