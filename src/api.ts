@@ -1,6 +1,6 @@
 const BASE_URL = "http://localhost:3000";
 
-type Book = {
+export type Book = {
   id: number;
   title: string;
   author: string;
